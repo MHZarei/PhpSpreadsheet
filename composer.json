@@ -1,8 +1,8 @@
 {
-    "name": "valoutre/phpspreadsheet",
+    "name": "mhzarei/phpspreadsheet",
     "description": "PHPSpreadsheet - Read, Create and Write Spreadsheet documents in PHP - Spreadsheet engine",
     "keywords": ["PHP", "OpenXML", "Excel", "xlsx", "xls", "ods", "gnumeric", "spreadsheet"],
-    "homepage": "https://github.com/Valoutre/PhpSpreadsheet",
+    "homepage": "https://github.com/mhzarei/PhpSpreadsheet",
     "type": "library",
     "license": "LGPL-2.1-or-later",
     "authors": [
@@ -23,6 +23,9 @@
         },
         {
             "name": "Valoutre"
+        },
+        {
+            "name": "MHZarei"
         }
     ],
     "scripts": {
